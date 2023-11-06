@@ -1,0 +1,83 @@
+Her yazılan modülden sonra ":" kullanılarak bir sonraki modüle geçilir
+
+Örnek: delay4:writemerhabaaa
+           /\
+            |
+            |  burda kullanılmış
+            |
+
+
+--------------- Modüller ------------------------------------------------
+
+write Modülü: -----------------------------------------------zorluk(çok kolay)
+
+write ----- (buraya yazılan şeyi bilgisayarına yazdırtırsın)
+
+
+Örnek:   writeMerhaba Dünya
+
+Bilgisayarın yazacağı = Merhaba Dünya
+
+
+
+wait Modülü: ------------------------------------------------zorluk(kolay)
+
+
+delay ----- (buraya sayı veya kesirli sayı yazılır örnek: 1, 1.4, 0.5)
+
+
+
+Örnek:   delay7
+Ya da:   delay0.5
+
+
+Bilgisayarın yapacağı = yazılan sayı kadar bekledikten sonra sonraki modüle geçmek
+
+
+
+setpos Modülü: ----------------------------------------------- zorluk(orta)
+
+
+setpos((x pozisyonu girilir, y pozisyonu girilir)) ----- (Kaç saniyede götürüleceği girilir)
+
+
+
+Örnek: setpos(350, 500)3
+
+
+
+Bilgisayarın Yapacağı = fareyi belirtilen konuma 3 saniyede götürür
+
+
+
+press Modülü: ------------------------------------------------ zorluk(zor)
+
+
+
+(kaç sanidede bir tıklayacağı[1 kere tıklayacaksa 0 yap]) ----- press ----- (basılıcak tuş) ----- (kaç kere basılacağı)
+
+
+
+Örnek = 3pressenter5
+
+
+Bilgisayarın yapacağı = Enter ----3saniyebekle---- Enter ----3saniyebekle---- Enter ----3saniyebekle---- Enter ----3saniyebekle---- Enter
+
+
+
+
+click Modülü: -------------------------------------------------zorluk(zor)
+
+
+(kaç sanidede bir tıklayacağı[1 kere tıklayacaksa 0 yap]) ----- [l(sol tık) yada r(sağ tık)] ----- click ----- (kaç kere basılacak)
+
+
+Örnek = 2lclick4
+(21 click yazmiyo Lclick yaziyo)
+
+
+
+Bilgisayarın yapacağı = Sol Tık ----2saniyebekle---- Sol Tık ----2saniyebekle---- Sol Tık ----2saniyebekle---- Sol Tık
+
+
+

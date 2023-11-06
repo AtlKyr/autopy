@@ -1,0 +1,54 @@
+aaaheloooo11111
+
+
+aaaheloooo11111
+
+
+aaaaaaaaaaaaaaa
+
+
+----------------------------------------
+
+
+aaaaaaaaaaaaaaa
+
+
+----------------------------------------
+
+
+setpos;setpos;keystroke;click;delay;clickssss;setpos
+
+
+----------------------------------------
+
+
+setpos(170, 317)2:0lclick1:setpos(654, 993)2:0lclick1:writeSen cok iyi bi insansin:0keypressenter1
+
+
+----------------------------------------
+
+
+setpos(369, 662)2:setpos(1531, 822)2:
+
+
+----------------------------------------
+
+
+setpos(2810, 493)1:0lclick1:setpos(2768, 96)1:0lclick1:delay3:writeRickroll:0pressenter1:delay2:setpos(3028, 210)2:0lclick1:delay2:0pressSpace1
+
+
+----------------------------------------
+
+
+setpos(2810, 493)1:0lclick1:setpos(2768, 96)1:0lclick1:wait3:writeRickroll:0pressenter1:wait2:setpos(3028, 210)2:0lclick1:wait2:0pressSpace1
+
+
+----------------------------------------
+
+
+setpos(2810, 493)1:0lclick1:setpos(2768, 96)1:0lclick1:wait3:writeRickroll:0pressenter1:wait2:setpos(3028, 210)2:0lclick1:wait0.8:0pressSpace1
+
+
+----------------------------------------
+
+
